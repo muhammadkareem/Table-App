@@ -1,0 +1,40 @@
+body{
+    background-image: url("image/105775803.jpg");
+    font-family: cursive
+}
+#container{
+    width: 400px;
+    min-height: 600px;
+    border: 2px solid burlywood;
+    background-color: rgba(60, 00, 00, 0.4);
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 100px;
+    margin-top: 20px;
+
+}
+#inptv{
+    width: 280;
+    height: 30px;
+    border-radius: 100px;
+    outline: none;
+    text-align: center;
+    background-color: rgba(00, 00, 00, 0.2);
+}
+#btn{
+    width: 65px;
+    height: 35px;
+    border-radius: 30px;
+    outline: none;
+    background-color: rgba(100, 10, 50, 0.6);
+    margin: 5px;
+
+}
+h3{
+    -ms-line-break: 2;
+     -webkit-line-break:2; 
+     
+}
+li{
+    list-style-type: none;
+}
