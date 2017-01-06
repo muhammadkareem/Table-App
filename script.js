@@ -13,7 +13,7 @@ var tx;
 for( var i = 1 ; i <=10 ; i ++ )
 	{
        
-	 tx = document.createTextNode(inpt + "*" + i + "=" + inpt*i + " ");
+	 tx = document.createTextNode(inpt + "*" + i + "=" + inpt*i + "       ");
       li1.appendChild(tx);
 	  
 		}
